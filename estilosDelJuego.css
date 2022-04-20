@@ -1,0 +1,68 @@
+body{
+	display: grid;
+}
+.botonFinalDeOportunidades{
+	border: solid red 1px;
+	color: red;
+}
+
+.colorTextoDeReintentar{
+	color: rgb(211 101 6);
+}
+.botonGanar{
+	color: rgb(6, 89, 7);
+	font-size: 25px;
+}
+
+.botonGanar:hover{
+	background: rgb(40, 250, 35);
+	border-radius: 6px;
+	border-color: rgb(3, 39, 1);;
+}
+.parrafoGanar{
+	color: rgb(10, 100, 10);
+}
+
+
+.parrafoCreadoDeValorMetido{
+	color: rgb(11, 101, 100);
+}
+.tableroClaseCreada{
+	display:inline-block; width:10%; height: ,1%;
+}
+.espacioParaContadorDeParrafosCreados{
+	margin-bottom: 150px;
+}
+.cuadrito{
+	background: #c3c3c396;
+	width: 300px;
+	margin: 0 auto 0 auto;
+	padding: 99px;
+	display: inline-grid;
+  	justify-content: center;
+  	-webkit-box-shadow: -2px 2px 6px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow: -2px 2px 6px 1px rgba(0,0,0,0.25);
+	box-shadow: -2px 2px 6px 1px rgba(0,0,0,0.25);
+}
+.datosMetidosPorElJugadors{
+	width: 60px;
+}
+.parrafoCreadoDeValorMetido{
+	display: inline-grid;
+	margin: 4px 21px;
+}
+.botonFinalDeOportunidades{
+	display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+
+}
+
+#boton{
+	margin: 11px 0px;
+}
+
+#divDePista{
+	color: #841;
+}
